@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Abhishek ![Profile Views](https://komarev.com/ghpvc/?username=gsabhishek28&style=flat-square)
+### Hi there 👋, I'm Abhishek! [Profile Views](https://komarev.com/ghpvc/?username=gsabhishek28&style=flat-square)
 
 ![alt text](https://images.unsplash.com/photo-1598134493179-51332e56807f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80)
+
+
 
 ### Worked with 
 
@@ -12,6 +14,9 @@
 <code><img height="40" src="http://simpleicons.org/icons/mongodb.svg"></code>
 <code><img height="40" src="http://simpleicons.org/icons/keras.svg"></code>
 
+### Songs I'm listening to:
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gsabhishek28 Spotify Playing" width="350" />](https://open.spotify.com/track/0sRg0YVlQNN3klM0NtysR4?si=tUbTJUUMS-SH-lvvaRXm8g)
 
 
 
