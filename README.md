@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1949&q=80)
+![alt text](https://images.unsplash.com/photo-1598134493179-51332e56807f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80)
 
 <!--
 **gsabhishek28/gsabhishek28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
