@@ -1,4 +1,4 @@
-### Hi there 👋 (https://gsabhishek28.pythonanywhere.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers]
+### Hi there 👋 ![Profile Views](https://komarev.com/ghpvc/?username=gsabhishek28&style=flat-square)
 
 ![alt text](https://images.unsplash.com/photo-1598134493179-51332e56807f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80)
 
