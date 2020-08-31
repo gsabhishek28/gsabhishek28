@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Abhishek! 
-![](images/doggo.jpg)
+![alt text](https://github.com/gsabhishek28/gsabhishek28/blob/master/images/doggo.jpg)
 
 
 
