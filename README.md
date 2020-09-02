@@ -2,6 +2,14 @@
 ![alt text](https://github.com/gsabhishek28/gsabhishek28/blob/master/images/doggo.jpg)
 
 
+### Tl;dr:
+- 🔭 I’m currently working on Multilingual Recommendation Systems
+- 🌱 I’m currently learning Semantic Similarity with BERT using Keras
+- 👯 I’m looking to collaborate on Kaggle Competitions
+- 💬 Ask me about Astrophotography, Distance running and TVshows!
+- 📫 How to reach me: gsabhishek28@gmail.com
+- ⚡ Fun fact:  - My 5k timing: 20:21 - 10k: 41:25 - 21.1k: 01:32 - 42.2k: 03:25
+
 
 ### Worked with 
 
